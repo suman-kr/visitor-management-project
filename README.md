@@ -1,6 +1,6 @@
 # visitor-management-project
-Visitor Management System
-
+##Visitor Management System
+---------------------------------
 Back end - php and mysql
 
 Front end - HTML and CSS
